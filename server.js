@@ -31,7 +31,6 @@ let city = argv.c || 'portland';
     }
   });
   
-
   //console.log(req.body.city);
 });
 
